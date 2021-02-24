@@ -1,0 +1,81 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.banner-bg{
+    height: 500px;
+    background: url(https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.banner-con{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 500px
+}
+.banner-text{
+    width: 1000px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    padding-top: 5rem;
+    align-items: baseline;
+    
+}
+
+.banner-text p{
+    padding: 5 5 10 10;
+}
+
+.profile{
+    position: absolute;
+    left: 65rem;
+    top: 11rem;
+}
+
+.profile img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.caption {
+    transform-style: preserve-3d;
+    transform: rotateX(180deg);
+    transform-origin: top;
+    z-index: -1;
+    display: none;
+    transition: 2s;
+    animation: backwards;
+    line-height: 20%;
+}
+
+.profile:hover .caption{
+    display: block;
+    transform: rotateX(0deg);
+}
+
+.caption h3{
+    color:aliceblue;
+    font-size: 30px;
+
+}
+
+.caption p{
+    margin-top: 20;
+    color: aliceblue;
+}
+
+.banner-text h1{
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.banner-text p{
+    padding-top: 0rem;
+    font-size: 65px;
+    color: aliceblue;
+
+}

@@ -1,0 +1,48 @@
+
+.project-header{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.project-header h1{
+    line-height: 20%;
+    font-size: 60px;
+}
+
+.project-header p{
+    color:darkgray;
+    font-size: 30px;
+}
+
+.project-container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.content-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-l img{
+    margin-top: 40px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.content-r{
+    margin-top: 40px;
+    width: 400px;
+}
+.content-r h2{
+    margin-left: 40px;
+    font-size: 60;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.content-r p{
+    margin-left: 40px;
+    width: 100%;
+    border-radius: 10px;
+}

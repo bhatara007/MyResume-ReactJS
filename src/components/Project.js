@@ -9,6 +9,37 @@ function Project() {
                 <h1> My Project</h1>
                 <p> In my the 2 year as Software Engoneering student</p>
             </div>
+            <div className='timeline'>
+                <ul>
+                    <li>
+                        <div className='content'>
+                            <h2> This is title </h2>
+                            <p> asfla;f;skdf;lkjg ijdijfkjksjdfsdfkj ds
+                                lewkjlwkefwlkejflkwjfkwjefklwjfkjfkjifejwf
+                                ;elflkw;fkewl;ekfw;lekfw;lkflwefk
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div className='content'>
+                            <h2> This is title </h2>
+                            <p> asfla;f;skdf;lkjg ijdijfkjksjdfsdfkj ds
+                                lewkjlwkefwlkejflkwjfkwjefklwjfkjfkjifejwf
+                                ;elflkw;fkewl;ekfw;lekfw;lkflwefk
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div className='content'>
+                            <h2> This is title </h2>
+                            <p> asfla;f;skdf;lkjg ijdijfkjksjdfsdfkj ds
+                                lewkjlwkefwlkejflkwjfkwjefklwjfkjfkjifejwf
+                                ;elflkw;fkewl;ekfw;lekfw;lkflwefk
+                            </p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
             <div className='content-con'>
                 <section className='content'>
                     <div className="content-l">

@@ -42,30 +42,34 @@
 }
 
 .caption {
-    transform-style: preserve-3d;
-    transform: rotateX(180deg);
-    transform-origin: top;
-    z-index: -1;
-    display: none;
-    transition: 2s;
-    animation: backwards;
-    line-height: 20%;
+    bottom: 55;
+    width: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5s;
+    transform: translateX(-9%)translateY(20px);
 }
 
 .profile:hover .caption{
-    display: block;
-    transform: rotateX(0deg);
+    visibility: visible;
+    opacity: 1;
+    transform: translateX(-9%)translateY(0px);
 }
 
 .caption h3{
     color:aliceblue;
     font-size: 30px;
+    line-height: 0%;
 
 }
 
 .caption p{
     margin-top: 20;
     color: aliceblue;
+    line-height: 10%;
 }
 
 .banner-text h1{

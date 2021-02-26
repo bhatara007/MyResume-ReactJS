@@ -43,10 +43,11 @@
 
     .mobile-menu {
         position: relative;
-        right: 180px;
+        right: 150px;
         display: block;
         color: #fff;
         font-size: 2rem;
+        
     }
     .header {
         padding: 0rem;

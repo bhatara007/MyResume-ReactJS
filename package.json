@@ -13,7 +13,7 @@
     "react-scripts": "^4.0.3",
     "react-typical": "^0.1.3",
     "web-vitals": "^1.1.0",
-    "react-icons/fi": ""
+    "react-icons": ""
   },
   "scripts": {
     "predeploy": "npm run build",

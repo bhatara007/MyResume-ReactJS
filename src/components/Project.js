@@ -7,7 +7,7 @@ function Project() {
         <div className='project-container'>
             <div className='project-header'>
                 <h1> My Project</h1>
-                <p> In my the 2 year as Software Engoneering student</p>
+                <p> In my the 2 year as Software Engineering student</p>
             </div>
             <div className='timeline'>
                 <ul>

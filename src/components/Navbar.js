@@ -12,17 +12,17 @@ function Navbar(){
             <div className="container">
                 <div className="header-c">
                     <div className="logo">
-                        <a href="#"> Bhatara C.</a>
+                        <a> Bhatara C.</a>
                     </div>
                     <ul className={click ? "menu active": "menu"}>
                         <li className="menu-link" onClick={closeMoblieMenu}>
-                            <a href="#banner-bg"> Home </a>
+                            <a> Home </a>
                         </li>
                         <li className="menu-link" onClick={closeMoblieMenu}>
-                            <a href="#"> Project </a>
+                            <a> Project </a>
                         </li>
                         <li className="menu-link" onClick={closeMoblieMenu}>
-                            <a href="#"> Contact Me </a>
+                            <a> Contact Me </a>
                         </li>
                     </ul>
                     <div className="mobile-menu" onClick={handleClick}>

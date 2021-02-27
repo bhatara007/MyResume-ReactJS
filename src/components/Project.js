@@ -43,7 +43,7 @@ function Project() {
             <div className='content-con'>
                 <section className='content'>
                     <div className="content-l">
-                        <img src='https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/152035794_460770868384253_3011601652157859483_n.png?_nc_cat=103&ccb=3&_nc_sid=ae9488&_nc_eui2=AeFcFhfkaODUWJByLJhGgKkr_CukMfRZBD38K6Qx9FkEPSooLPezUFFDVlWq6-oHDKBgOyhCuSRv9Ld0_Z3tV9lE&_nc_ohc=SwzXpxGYK2IAX_3DBRU&_nc_ht=scontent.fbkk5-4.fna&oh=762a908fa987ec206179e9985c54a76b&oe=605B335E'>
+                        <img src='https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.15752-9/152035794_460770868384253_3011601652157859483_n.png?_nc_cat=103&ccb=3&_nc_sid=ae9488&_nc_eui2=AeFcFhfkaODUWJByLJhGgKkr_CukMfRZBD38K6Qx9FkEPSooLPezUFFDVlWq6-oHDKBgOyhCuSRv9Ld0_Z3tV9lE&_nc_ohc=SwzXpxGYK2IAX_3DBRU&_nc_ht=scontent.fbkk5-4.fna&oh=762a908fa987ec206179e9985c54a76b&oe=605B335E' alt="description of image">
                         </img>
                     </div>
                 </section>
@@ -61,7 +61,7 @@ function Project() {
             <div className='content-con'>
                 <section className='content'>
                     <div className="content-l">
-                        <img src='https://github.com/OOP2020/pa4-bhatara007/blob/master/photo/Screen%20Shot%202563-05-13%20at%2001.20.40.png?raw=true'>
+                        <img src='https://github.com/OOP2020/pa4-bhatara007/blob/master/photo/Screen%20Shot%202563-05-13%20at%2001.20.40.png?raw=true' alt="description of image">
                         </img>
                     </div>
                 </section>
